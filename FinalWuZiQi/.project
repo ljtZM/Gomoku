@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>FinalWuZiQi</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>audio</name>
+			<type>2</type>
+			<location>C:/Users/Lenovo/AppData/Local/Temp/BNZ.657f2e66abc0681/audio</location>
+		</link>
+		<link>
+			<name>audio/win.wav</name>
+			<type>1</type>
+			<location>C:/Users/Lenovo/Downloads/win.wav</location>
+		</link>
+	</linkedResources>
+</projectDescription>
