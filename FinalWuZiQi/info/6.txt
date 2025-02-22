@@ -1,0 +1,5 @@
+6
+请输入您的密码  
+你好不好
+./img/NKU_default.png
+50
